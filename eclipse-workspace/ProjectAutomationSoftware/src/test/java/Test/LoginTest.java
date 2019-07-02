@@ -33,7 +33,6 @@ public class LoginTest {
 
     @Then("^eu valido acesso no e-mail$")
     public void validarAcessoDeEmail(){
-
         Assert.assertEquals(Propriedades.mensagemValidacao,login.mensagemValidacao());
     }
 
