@@ -1,0 +1,18 @@
+realizarLoginValido, usuario, senha
+			                   	, alan.jesus, 123,
+
+
+realizarLoginInvalido, usuario, senha, mensagem
+																							, alan.jesus, 1234, Your account may be disabled or blocked or the username/password you entered is incorrect.
+																						, alan.paulo, 123, Your account may be disabled or blocked or the username/password you entered is incorrect.,
+
+realizarPesquisaAtividadeComSucesso, usuario, senha, projeto, numeroAtividade
+																																		,  alan.jesus, 123, All Projects, 2502,
+
+
+realizarPesquisaNaoCadastrada, usuario, senha, numeroAtividadeInvalido
+			 																									, alan.jesus, 123, 199,
+
+
+realizarAlteracaoEmAtividade, usuario, senha, projeto, numeroAtividade, descricao
+																												, alan.jesus, 123, All Projects, 2503,  Este é um teste de software

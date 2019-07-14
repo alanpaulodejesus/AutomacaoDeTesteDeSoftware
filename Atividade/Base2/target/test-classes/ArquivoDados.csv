@@ -1,0 +1,11 @@
+realizarLoginValido,usuario,senha,Duration(ms),Duration(ms)
+"",alan.jesus,123,2835.0,2835.0
+realizarLoginInvalido,usuario,senha,mensagem,Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms)
+"",alan.jesus,1234,Your account may be disabled or blocked or the username/password you entered is incorrect.,2030.0,2030.0,2030.0,2030.0,2030.0,2030.0,2030.0,2030.0,2030.0,2030.0,2030.0,2030.0,2030.0,2030.0,2030.0
+"",alan.paulo,123,Your account may be disabled or blocked or the username/password you entered is incorrect.,1892.0,1892.0,1892.0,1892.0,1892.0,1892.0,1892.0,1892.0,1892.0,1892.0,1892.0,1892.0,1892.0,1892.0,1892.0
+realizarPesquisaAtividadeComSucesso,usuario,senha,projeto,numeroAtividade,Duration(ms),Duration(ms)
+"",alan.jesus,123,All Projects,2502,4360.0,4360.0
+realizarPesquisaNaoCadastrada,usuario,senha,numeroAtividadeInvalido,Duration(ms),Duration(ms)
+"",alan.jesus,123,199,4015.0,4015.0
+realizarAlteracaoEmAtividade,usuario,senha,projeto,numeroAtividade,descricao,Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms)
+"",alan.jesus,123,All Projects,2503,Este é um teste de software,9723.0,9723.0,9723.0,9723.0,9723.0
