@@ -2,148 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3403fd2f-188c-4d33-bd7b-fb46da8c382f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.idea/eclipse-workspace.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.mylyn/repositories.xml.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.logging.aeri.ide.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.j2ee.webservice.ui.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.ui.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/http-cache.lucene60/segments_1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/http-cache.lucene60/write.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/_0.cfe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/_0.cfs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/_0.si" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/segments_1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/write.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/index.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.9.0.20180606-2036.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.rse.core/.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.rse.core/initializerMarks/org.eclipse.rse.internal.core.RSELocalConnectionInitializer.mark" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.tm.terminal.view.ui/.executables/data.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.ui.intro/dialog_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.ui.intro/introstate" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.metadata/version.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.recommenders/caches/identified-project-coordinates.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.recommenders/caches/manual-mappings.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/_5.fdt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/_5.fdx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/_5.fnm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/_5.frq" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/_5.nrm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/_5.prx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/_5.tii" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/_5.tis" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/segments.gen" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/segments_6" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/write.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__com_microsoft_sqlserver_mssql_jdbc_7_2_1_jre11.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__io_cucumber_cucumber_core_4_2_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__io_cucumber_cucumber_expressions_6_2_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__io_cucumber_cucumber_html_0_2_7.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__io_cucumber_cucumber_java_4_2_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__io_cucumber_cucumber_junit_4_2_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__io_cucumber_cucumber_jvm_deps_1_0_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__io_cucumber_datatable_1_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__io_cucumber_datatable_dependencies_1_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__io_cucumber_gherkin_5_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__io_cucumber_gherkin_jvm_deps_1_0_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__io_cucumber_tag_expressions_1_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__junit_junit_4_12.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__org_seleniumhq_selenium_jetty_repacked_9_4_12_v20180830.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_141_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_141_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_141_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_141_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_141_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_141_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_server_3_141_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_141_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/ProjectAutomationSoftware.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/src/main/resources/drivers/chromedriver.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/src/main/resources/drivers/extent-config.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/src/main/resources/drivers/geckodriver.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/src/test/java/BDDexecute/ExecuteCenarios.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/src/test/java/BDDfeaturesCenarioEmailTest/Cenario001LoginTest.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/src/test/java/Core/DriverFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/src/test/java/Core/Propriedades.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/src/test/java/DSL/Botao.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/src/test/java/DSL/CampoTexto.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/src/test/java/DSL/Label.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/src/test/java/Pages/LoginPage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/src/test/java/Test/LoginTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/src/test/java/Util/Data.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/src/test/java/Util/Tempo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/target/classes/drivers/chromedriver.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/target/classes/drivers/extent-config.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/target/classes/drivers/geckodriver.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/target/test-classes/BDDexecute/ExecuteCenarios.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/target/test-classes/Core/DriverFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/target/test-classes/Core/Propriedades$Browsers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/target/test-classes/Core/Propriedades.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/target/test-classes/DSL/Botao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/target/test-classes/DSL/CampoTexto.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/target/test-classes/DSL/Label.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/target/test-classes/Pages/LoginPage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/target/test-classes/Test/LoginTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/target/test-classes/Util/Data.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/target/test-classes/Util/Tempo.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -155,7 +15,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450" />
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -175,7 +46,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/DSL/Label.java" />
         <option value="$PROJECT_DIR$/src/test/java/Util/Data.java" />
         <option value="$PROJECT_DIR$/src/test/java/Util/Tempo.java" />
@@ -192,6 +62,7 @@
         <option value="$PROJECT_DIR$/src/test/java/BDDfeaturesCenarioEmailTest/Cenario001LoginTest.feature" />
         <option value="$PROJECT_DIR$/src/test/java/Core/Propriedades.java" />
         <option value="$PROJECT_DIR$/src/test/java/Test/LoginTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -223,32 +94,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="AutomacaoDeTesteDeSoftware" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutomacaoDeTesteDeSoftware" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutomacaoDeTesteDeSoftware" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="AutomacaoDeTesteDeSoftware" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -482,7 +342,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -493,7 +353,6 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -509,22 +368,8 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/src/test/java/Test/LoginTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/src/test/java/Test/LoginTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/src/test/java/Test/LoginTest.java" />
+    <entry file="file://$PROJECT_DIR$/eclipse-workspace/ProjectAutomationSoftware/src/test/java/Test/LoginTest.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/Core/DriverFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="700">
@@ -679,13 +524,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1775">
-          <caret line="71" column="21" lean-forward="false" selection-start-line="71" selection-start-column="21" selection-end-line="71" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/DSL/Label.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -771,6 +609,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="159">
           <caret line="19" column="59" lean-forward="true" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
